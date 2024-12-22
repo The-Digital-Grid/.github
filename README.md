@@ -1,7 +1,7 @@
 # The Digital Grid
 <div align="center">
 
-![The Digital Grid Logo](./assets/logo-transparent.svg)
+![The Digital Grid Logo](https://raw.githubusercontent.com/The-Digital-Grid/www/1df933d7fef5865c9892194bfc50e3843ebb0ccf/logo%20(Logo)_transparent.svg)
 
 [![Website](https://img.shields.io/badge/Website-thedigitalgrid.co.za-green?style=for-the-badge)](https://www.thedigitalgrid.co.za)
 [![Email](https://img.shields.io/badge/Email-th3digitalgrid%40outlook.co.za-blue?style=for-the-badge&logo=microsoft-outlook)](mailto:th3digitalgrid@outlook.co.za)
