@@ -1,5 +1,8 @@
 # The Digital Grid
 
+![image](https://github.com/user-attachments/assets/72868cc5-a3ed-4c6f-90cb-b3659fa20ee4)
+
+
 Welcome to The Digital Grid - Your Partner in Digital Transformation! 🚀
 
 ## About Us
